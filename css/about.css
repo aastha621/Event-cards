@@ -143,11 +143,3 @@ background-color: #c0dff9;
 	margin-top:60px;
 }
 
-.jumbotron
-{
-    background-image: url("img/about.jpg") ;
-    background-size: cover; 
-    height: 100%;
-    width: 100%;
-}
-
